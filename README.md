@@ -14,7 +14,7 @@ Federated Edge Learning (FEEL) enables edge devices to collaboratively train mac
 The key contributions include:
 
 - **Fine-Grained Data Selection Algorithm**: Selects the most relevant training samples to reduce computational load and energy consumption.
-- **Threshold-Based Data Exclusion .....
+- **Threshold-Based Data Exclusion** .....
 
 
 
